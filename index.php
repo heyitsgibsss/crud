@@ -1,14 +1,3 @@
-<!-- Aplikasi CRUD dengan PHP 8, MySQL 8, Bootstrap 5, dan Vanilla JS
-**********************************************************************
-* Developer   : Indra Styawantoro
-* Company     : Pustaka Koding
-* Release     : Maret 2023
-* Update      : -
-* Website     : pustakakoding.com
-* E-mail      : pustaka.koding@gmail.com
-* WhatsApp    : +62-813-7778-3334
--->
-
 <?php
 // panggil file "database.php" untuk koneksi ke database
 require_once "config/database.php";
