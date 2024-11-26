@@ -1,8 +1,8 @@
 <?php
 // deklarasi parameter koneksi database
-$host     = "localhost";            // server database, default “localhost” atau “127.0.0.1”
+$host     = "103.176.78.171";            // server database, default “localhost” atau “127.0.0.1”
 $username = "root";                 // username database, default “root”
-$password = "";                     // password database, default kosong
+$password = "Abcd1234@";                     // password database, default kosong
 $database = "db_crud_php";          // memilih database yang akan digunakan
 
 // buat koneksi database
